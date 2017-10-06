@@ -75,3 +75,10 @@ body{height:10000px;}
 /* part4 开始 */
 .part4{width:1349px; height:180px; margin:auto; background:url(../images/part4/register_bg_05e86992.png) no-repeat;}
 /* part4 结束 */
+
+/*footer 开始*/
+.footer{}
+.footer .title ul li{float:left; margin:20px 0; padding:0 10px; border-right:1px solid #ddd;}
+.footer .title ul li:last-child{border-right:none;}
+
+/*footer 结束*/
